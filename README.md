@@ -1,7 +1,7 @@
 # Lanz-PassGen
 GT Bootcamp Password Generator assignment
 
-My thought process was that we would need to:
+<img width="1090" alt="Lanz-PassGen" src="https://user-images.githubusercontent.com/92745804/141723440-6903bcc9-7e97-439b-ad15-96617d89a107.png">
 
 -identify the characters our arrays would use
 
